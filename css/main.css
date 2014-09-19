@@ -136,7 +136,7 @@ nav a:focus{
 	margin: -10px 0px 0px 5px;
 }
 
-#swipe {
+#scrollMenu {
 	z-index: -200; /* Hide swipe chevron arrow for desktop screens */
 }
 
@@ -239,7 +239,7 @@ nav a:focus{
 		min-width: 75px;
 	}
 	
-	#swipe {
+	#scrollMenu {
 		z-index: 1;
 		display: inline-flex;
 		position: absolute;
